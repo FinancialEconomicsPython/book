@@ -85,7 +85,12 @@ FinancialEconomicsPython/
 노트북의 셀(cell)을 **위에서부터 차례대로 실행**합니다.
 - 단축키: `Shift + Enter`
 
-### 방법 2: 파일을 다운로드하여 직접 실행하기 (고급 사용자)
+### 방법 2: Google Colab으로 직접 옮기기
+
+1. https://www.youtube.com/shorts/Kx06X5u3jes
+
+
+### 방법 3: 파일을 다운로드하여 직접 실행하기 (고급 사용자)
 
 로컬 환경에서 파이썬을 사용하는 독자는 다음과 같이 사용할 수 있습니다.
 
