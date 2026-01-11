@@ -30,19 +30,23 @@
 ## 저장소 구조
 
 ```
-FinancialEconomicsPython/
+FinancialEconomicsPython/book/
 ├── README.md              ← 저장소 메인 설명 (교재 안내, 사용법)
+├── type_correction.md     ← 책 본문의 오타 및 수정사항
+│
+└── readings/
+│    └── READINGS.md: 각 장의 논의와 관련된 뉴스 기사, 블로그 글, 보고서, 추가 읽을거리
 │
 ├── chapters/
 │   └── 각 장(chapter)에서 사용된 그림과 분석을 재현할 수 있는 Jupyter Notebook (.ipynb)
 │
-├── utils/
+├── utils/                ← chapters 폴더에 있는 Jupyter Notebook에서 공통으로 사용하는 함수
 │   ├── nber_utils.py
 │   ├── plot_utils.py
 │   └── preamble_core.py
 │
-└── readings/
-    └── READINGS.md: 각 장의 논의와 관련된 뉴스 기사, 블로그 글, 보고서, 추가 읽을거리
+└── appendix_online/
+    └── 온라인 부록
 ```
 
 - **chapters/**  
