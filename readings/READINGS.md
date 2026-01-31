@@ -6,12 +6,12 @@
 
 - 서울대 이관휘 교수님 칼럼
 
-"투자의 정석은 분산투자, 과연 그럴까?" (problem set 1의 8번 문제 내용과 정확하게 일치합니다): https://www.sisain.co.kr/news/articleView.html?idxno=45399&utm_source=pocket_mylist
-마코위츠 모형: https://www.sisain.co.kr/news/articleView.html?idxno=50891
-위험과 보상, CAPM: https://www.sisain.co.kr/news/articleView.html?idxno=45530
-내부자 정보, 강형 효율성: https://www.sisain.co.kr/news/articleView.html?idxno=45059
-activist 공매도: https://www.sisain.co.kr/news/articleView.html?idxno=44908
-2021년 3년 금융위의 공매도 재개와 중소형주에 대한 공매도 금지에 대한 의견: https://www.mk.co.kr/economy/view.php?sc=50000001&year=2021&no=196138
+	- "투자의 정석은 분산투자, 과연 그럴까?" (problem set 1의 8번 문제 내용과 정확하게 일치합니다): https://www.sisain.co.kr/news/articleView.html?idxno=45399&utm_source=pocket_mylist
+	- 마코위츠 모형: https://www.sisain.co.kr/news/articleView.html?idxno=50891
+	- 위험과 보상, CAPM: https://www.sisain.co.kr/news/articleView.html?idxno=45530
+	- 내부자 정보, 강형 효율성: https://www.sisain.co.kr/news/articleView.html?idxno=45059
+	- activist 공매도: https://www.sisain.co.kr/news/articleView.html?idxno=44908
+	- 2021년 3년 금융위의 공매도 재개와 중소형주에 대한 공매도 금지에 대한 의견: https://www.mk.co.kr/economy/view.php?sc=50000001&year=2021&no=196138
 
 
 - Mankiw 교수의 금 투자 관련 New York Times 칼럼:
@@ -290,6 +290,10 @@ https://www.hani.co.kr/arti/economy/economy_general/1021259.html
 - 지준부리와 손실
 https://x.com/JonSteinsson/status/1931150699322355912
 
+- 베버리지 곡선 관련
+	- ["베버리지 곡선은 노동시장의 회복상에 대해 무엇을 말해 주는가?"](https://www.stlouisfed.org/on-the-economy/2022/jul/beveridge-curve-labor-market-recovery) (세인트루이스 연준 블로그, 2022.7)
+	- ["최근 베버리지 곡선은 왜 급격하게 이동했는가?"](https://www.richmondfed.org/publications/research/economic_brief/2021/eb_21-36) (리치몬드 연준 Economic Brief, 2021.10)  
+	- ["베버리지 곡선을 통한 노동시장 평가: 미국과의 비교를 중심으로"](https://www.bok.or.kr/portal/bbs/B0000347/view.do?nttId=10072542&menuNo=201106) (한국은행 블로그, 2022.8)
 
 
 
