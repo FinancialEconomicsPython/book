@@ -166,7 +166,7 @@ def plot_nber_recession(
     color='gray',
     alpha=0.3,
     label='_nolegend_',
-    clip_to_xlim=True,
+    clip_to_xlim=False,
     keep_xlim=True
 ):
     """
