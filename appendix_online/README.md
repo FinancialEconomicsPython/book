@@ -1,1 +1,2 @@
-
+- Epstein-Zin 효용함수
+- Hansen Jaganathan bound
