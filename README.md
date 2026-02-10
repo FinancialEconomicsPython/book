@@ -22,37 +22,33 @@ Park, Ki Young (2025),
 *Financial Economics: Analyzing Financial Markets and Monetary Policy with Python*,  
 Sigma Press.  
 
-GitHub repository: https://github.com/FinancialEconomicsPython
+GitHub repository: https://github.com/FinancialEconomicsPython/book
 
-
----
 
 ## 라이선스 안내 (한글)
 
-본 저장소에 포함된 모든 코드는  
-**크리에이티브 커먼즈 저작자표시 4.0 국제 라이선스(CC BY 4.0)** 하에 공개됩니다.
+본 저장소에 포함된 모든 코드는 **크리에이티브 커먼즈 저작자표시 4.0 국제 라이선스(CC BY 4.0)** 하에 공개됩니다.
 
-연구, 강의, 보고서, 출판물 등 다양한 목적으로 자유롭게 사용·수정·재배포할 수 있으나,  
-아래의 인용 표기를 반드시 포함해 주시기 바랍니다.
+연구, 강의, 보고서, 출판물 등 다양한 목적으로 자유롭게 사용·수정·재배포할 수 있으나, 아래의 인용 표기를 반드시 포함해 주시기 바랍니다.
 
 
 ### 인용 방법 (필수)
 
 본 저장소의 코드를 사용하거나 수정하여 활용한 경우,  
-다음 도서를 반드시 인용해 주십시오.
+다음 문헌을 반드시 인용해 주십시오.
 
 박기영 (2025),  
 『금융경제학: 파이썬을 활용한 금융시장과 통화정책의 이해』,  
 시그마프레스.
 
-GitHub 저장소: https://github.com/FinancialEconomicsPython
+GitHub 저장소: https://github.com/FinancialEconomicsPython/book
 
 
 ---
 
 ### Note on Data Sources
 
-Data used in this repository (e.g., FRED, ECOS, NBER) are subject to their own licenses.
+Data used in this repository (e.g., FRED, ECOS, ECB Data Portal) are subject to their own licenses.
 This license applies only to the original code and figures created by the author.
 
 
@@ -79,21 +75,20 @@ This license applies only to the original code and figures created by the author
 ```
 FinancialEconomicsPython/book/
 ├── README.md              ← 저장소 메인 설명 (교재 안내, 사용법)
-├── type_correction.md     ← 책 본문의 오타 및 수정사항
-│
-├── readings/
-│    └── READINGS.md: 각 장의 논의와 관련된 뉴스 기사, 블로그 글, 보고서, 추가 읽을거리
-│
 ├── chapters/
 │   └── 각 장(chapter)에서 사용된 그림과 분석을 재현할 수 있는 Jupyter Notebook (.ipynb)
-│
+├── readings/
+│    └── 각 장의 논의와 관련된 뉴스 기사, 블로그 글, 보고서, 추가 읽을거리
+├── appendix_online/
+│    └── 온라인 부록
 ├── utils/                ← chapters 폴더에 있는 Jupyter Notebook에서 공통으로 사용하는 함수
 │   ├── nber_utils.py
 │   ├── plot_utils.py
 │   └── preamble_core.py
-│
-└── appendix_online/
-    └── 온라인 부록
+└── correction_typo/
+    └── 본문의 수정사항 및 오타
+
+
 ```
 
 - **chapters/**  
