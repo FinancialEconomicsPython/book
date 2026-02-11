@@ -2,6 +2,7 @@
 - Python에 대한 다큐멘터리
 [The Story of Python and how it took over the world] (https://www.youtube.com/watch?v=GfH4QL4VqJ0&t=1s)
 
+
 # 주식 관련 읽기 자료
 
 - 서울대 이관휘 교수님 칼럼
@@ -72,7 +73,7 @@ https://www.mk.co.kr/news/economy/view/2018/10/632466/
 - "한국 개미는 왜 공매도에 분노하나...'금지' 둘러싼 쟁점": https://www.hani.co.kr/arti/economy/economy_general/1115465.html
 
 
-
+---
 # 채권 관련 읽기 자료
 
 - 수익률 곡선으로 살펴보는 금리 전망
@@ -150,6 +151,7 @@ https://news.sbs.co.kr/news/endPage.do?news_id=N1007817204&plink=ORI&cooper=NAVE
 - 금리 폭등에 '안전자산' 미국채 휘청...불안 키운 세 가지 변수
 https://www.hankyung.com/article/202504091309i
 
+---
 # 금융시장 관련 읽기 자료
 
 - AI 기술을 통해 정보비대칭 문제를 크게 경감시킬 수 있다는 기사
@@ -177,6 +179,7 @@ http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201105102004135
 https://www.hani.co.kr/arti/politics/politics_general/1167533.html
 https://www.khan.co.kr/article/202505180800021
 
+---
 # 중앙은행, 통화정책 관련 읽기 자료
 
 - 2025.12.10 연준이 기준금리 인하와 단기국채 매입을 발표했습니다. 아래 글 참고하세요.
