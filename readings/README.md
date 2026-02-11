@@ -12,8 +12,9 @@
 ---
 # 서론
 
-- ["스테이블코인 법제화, 성급할 이유 없어"](https://www.hani.co.kr/arti/opinion/because/1204329.html) (한겨레 신문 칼럼, 2025.6)
-
+- ["스테이블코인 법제화, 성급할 이유 없어"](https://www.hani.co.kr/arti/opinion/because/1204329.html) (한겨레신문 칼럼, 2025.6)
+- "임일섭의 화폐를 다시 생각하다" 한겨레신문 연재 중에서
+  - ["‘탈중앙화 금융' 꿈꾸는 스테이블코인…화폐의 미래 아닌 과거다"](https://www.hani.co.kr/arti/economy/finance/1109273.html) (한겨레신문, 2024.5) 
 
 ---
 # 주식 관련 읽기 자료
