@@ -22,6 +22,7 @@
 <details>
 <summary>읽기 자료 펼치기</summary>
 
+- ["무너진 모래성, 스테이블 코인은 존재해야 하는가"](https://www.sisain.co.kr/news/articleView.html?idxno=48158) (이관휘의 자본시장 이야기, 시사IN 연재, 2022.8)
 - ["스테이블코인 법제화, 성급할 이유 없어"](https://www.hani.co.kr/arti/opinion/because/1204329.html) (한겨레신문 칼럼, 2025.6)  
 - ["‘탈중앙화 금융' 꿈꾸는 스테이블코인…화폐의 미래 아닌 과거다"](https://www.hani.co.kr/arti/economy/finance/1109273.html) (한겨레신문, 2024.5)
 
@@ -37,25 +38,25 @@
 
 ### 분산투자, 리스크에 대한 보상, 요인모형
 
-- ["투자의 정석은 분산투자, 과연 그럴까?"](https://www.sisain.co.kr/news/articleView.html?idxno=45399&utm_source=pocket_mylist) (시사IN)
+- ["투자의 정석은 분산투자, 과연 그럴까?"](https://www.sisain.co.kr/news/articleView.html?idxno=45399&utm_source=pocket_mylist) (이관휘의 자본시장 이야기, 시사IN 연재, 2021.9)
 - ["Budging Just a Little on Investing in Gold"](https://www.nytimes.com/2013/07/28/business/budging-just-a-little-on-investing-in-gold.html) (New York Times, 2013.7)  
-- ["마코위츠 모형"](https://www.sisain.co.kr/news/articleView.html?idxno=50891) (시사IN)  
-- ["위험과 보상, CAPM"](https://www.sisain.co.kr/news/articleView.html?idxno=45530) (시사IN)
+- ["‘이건 경제학이 아니다’라는 말을 들었던 재무경제학의 개척자"](https://www.sisain.co.kr/news/articleView.html?idxno=50891) (이관휘의 자본시장 이야기, 시사IN 연재, 2023.8)  
+- ["위험 무릅쓴 내 투자, 얼만큼 이익보면 성공일까?"](https://www.sisain.co.kr/news/articleView.html?idxno=45530) (이관휘의 자본시장 이야기, 시사IN 연재, 2021.9)
 - ["월가 휩쓴 팩터투자"](https://www.mk.co.kr/news/economy/view/2018/10/632466/) (매일경제, 2018.10)  
 - ["S&P500 PER 시계열"](https://en.wikipedia.org/wiki/File:SP500pe2.svg) (Wikipedia)
 
 ### 효율적 시장, 초단타매매, 공매도 
 
-- ["내부자 정보와 강형 효율성"](https://www.sisain.co.kr/news/articleView.html?idxno=45059) (시사IN)
-- ["초단타매매와 ‘플래시 보이스’"](http://slownews.kr/52777) (슬로우뉴스)  
-- ["코스콤 '0.004초의 차별'"](https://www.hankyung.com/news/app/newsview.php?aid=2009090904681) (한국경제신문, 2009.9)  
-- ["시세조종 의혹 초단타"](https://www.edaily.co.kr/news/read?newsId=01203766638826272&mediaCodeNo=257) (이데일리)
+- 강형 효율성에 대한 글: ["기업의 내부고발자에게 값비싼 보상을 아끼지 말자"](https://www.sisain.co.kr/news/articleView.html?idxno=45059) (이관휘의 자본시장 이야기, 시사IN 연재, 2021.7)
+- 초단타매매를 다룬 '플래시 보이스' 책 소개: ["초단타매매 ‘완전 범죄의 탄생’"](http://slownews.kr/52777) (슬로우뉴스, 2016.9)  
+- 우리나라도 예외는 아닙니다. 이미 2009년에 이런 기사가 나왔습니다: ["코스콤 '0.004秒의 차별'...주문체결 속도 빨라 훨씬 유리"](https://www.hankyung.com/news/app/newsview.php?aid=2009090904681) (한국경제신문, 2009.9)  
+- ["시세조종 의혹 초단타"](https://www.edaily.co.kr/news/read?newsId=01203766638826272&mediaCodeNo=257) (이데일리, 2024.3)
 
 ### 공매도
 
-- ["공매도 오해와 진실"](https://news.sbs.co.kr/news/endPage.do?news_id=N1006199044) (SBS 뉴스)  
-- ["머디워터스, 루이싱 커피 공매도"](https://news.mt.co.kr/mtview.php?no=2020041000093628052) (머니투데이, 2020.4)  
-- ["공매도 관련 기사"](https://biz.chosun.com/stock/stock_general/2025/04/08/7MGZO7TEMZASDBECR5EJVY5INQ/) (조선비즈, 2025.4)
+- ["'주가 폭락' 원흉? 주린이가 모르는 공매도 '오해와 진실'"](https://news.sbs.co.kr/news/endPage.do?news_id=N1006199044) (SBS 뉴스, 2021.2)  
+- ["‘중국판 스벅’ 무너뜨린 美기업 사냥꾼"](https://news.mt.co.kr/mtview.php?no=2020041000093628052) (머니투데이, 2020.4)  
+- [""왜 하필 지금 재개했나?" 불만 내비치는 개미들... 반면 대만은 공매도 제한 조치"](https://biz.chosun.com/stock/stock_general/2025/04/08/7MGZO7TEMZASDBECR5EJVY5INQ/) (조선비즈, 2025.4)
 
 </details>
 
@@ -67,29 +68,31 @@
 <details>
 <summary>읽기 자료 펼치기</summary>
 
-- ["미국 금리가 더 높은데 왜 한국 채권을 사나"](https://www.donga.com/news/Economy/article/all/20190826/97129041/1) (동아일보, 2019.8)  
+- ["韓금리, 美보다 낮은데… 외국인 왜 국내채권 살까"](https://www.donga.com/news/Economy/article/all/20190826/97129041/1) (동아일보, 2019.8)  
 - ["3D Yield Curve"](https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html) (New York Times, 2015.3)  
-- ["그린스펀의 수수께끼 재현되나?"](https://news.einfomax.co.kr/news/articleView.html?idxno=4188047) (연합인포맥스)  
+- ["그린스펀의 수수께끼 재현되나?"](https://news.einfomax.co.kr/news/articleView.html?idxno=4188047) (연합인포맥스, 2021.12)  
 - ["샴의 법칙과 수익률곡선"](https://www.donga.com/news/Economy/article/all/20240806/126362211/1) (동아일보, 2024.8)  
-- ["금리 폭등에 미국채 휘청"](https://www.hankyung.com/article/202504091309i) (한국경제신문, 2025.4)  
-- ["CME FedWatch Tool"](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html) (CME Group)  
-- ["An inverted yield curve"](https://ig.ft.com/the-yield-curve-explained/) (Financial Times)
+- ["금리 폭등에 '안전자산' 미국채 휘청…불안 키운 세 가지 변수"](https://www.hankyung.com/article/202504091309i) (한국경제신문, 2025.4)  
+- 시장에서 연준의 금리 향방을 어떻게 예측하고 있는지 볼 수 있습니다: ["CME FedWatch Tool"](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html) (CME Group)  
+- ["역전된 수익률 곡선: 왜 투자자들이 관심을 가지고 지켜보는가?"] (https://ig.ft.com/the-yield-curve-explained/) (Financial Times, 2022.4)
+- ["SM은 왜 전환사채를 발행하려 하나"](https://www.sisain.co.kr/news/articleView.html?idxno=49810) (이관휘의 자본시장 이야기, 시사IN 연재, 2023.3)
 
 </details>
 
 ---
 
 # IV. 금융시장 관련 읽기 자료
-> 💡 **읽기 가이드**: 바젤 규제, 코코본드, 예금보험 등을 통해 금융시장의 안정성과 도덕적 해이 문제를 고민해 보십시오.
+> 💡 **읽기 가이드**: 금융시장의 비대칭 정보가 금융시장 구조, 규제와 어떤 관계가 있는지 생각해 봅시다. 
 
 <details>
 <summary>읽기 자료 펼치기</summary>
 
+- ["정말 알고서 한국 은행산업에 손대는 것인가"](https://www.sisain.co.kr/news/articleView.html?idxno=50166) (이괸휘의 자본시장 이야기, 시사IN 연재, 2023.5)
 - ["바젤 I, II, III 차이점"](https://www.hankyung.com/article/2014102478931) (한국경제신문, 2014.10)  
 - ["코코본드와 바젤 III"](https://www.mk.co.kr/news/world/view/2016/04/299411/) (매일경제, 2016.4)  
 - ["부산저축은행 사태와 금융감독"](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201105102004135) (경향신문, 2011.5)  
 - ["예금자 보호 한도 상향 논쟁"](https://www.khan.co.kr/article/202505180800021) (경향신문, 2025.5)  
-- ["The End of the Rip-Off Economy"](https://www.economist.com/finance-and-economics/2025/10/27/the-end-of-the-rip-off-economy) (The Economist, 2025.10)
+- AI가 금융시장에도 영향을 미치고 있습니다: ["The End of the Rip-Off Economy"](https://www.economist.com/finance-and-economics/2025/10/27/the-end-of-the-rip-off-economy) (The Economist, 2025.10)
 
 </details>
 
