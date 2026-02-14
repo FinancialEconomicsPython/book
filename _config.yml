@@ -1,0 +1,52 @@
+# Book settings
+title: 금융경제학
+author: 박기영 (연세대 경제학부)
+logo: ""
+copyright: "2026"
+
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
+execute:
+  execute_notebooks: off  # 노트북을 빌드 시 실행하지 않음 (이미 실행된 결과 사용)
+
+# Define the name of the latex output file for PDF builds
+latex:
+  latex_documents:
+    targetname: book.tex
+
+# Add a bibtex file so that we can create citations
+bibtex_bibfiles:
+  - references.bib
+
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/FinancialEconomicsPython/book
+  path_to_book: docs  # Optional path to your book, relative to the repository root
+  branch: main  # Which branch of the repository should be used when creating links (optional)
+
+# Add GitHub buttons to your book
+# See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
+html:
+  use_issues_button: true
+  use_repository_button: true
+  use_edit_page_button: false
+  home_page_in_navbar: true
+  baseurl: https://financialeconomicspython.github.io/book/
+  extra_footer: |
+    <p>
+    이 저장소는 CC BY 4.0 라이선스 하에 공개됩니다.<br>
+    Contact: <a href="mailto:financialeconomicspython@gmail.com">financialeconomicspython@gmail.com</a>
+    </p>
+
+# Sphinx configuration
+sphinx:
+  config:
+    language: ko
+    html_theme: sphinx_book_theme
+    html_theme_options:
+      repository_url: https://github.com/FinancialEconomicsPython/book
+      use_repository_button: true
+      use_issues_button: true
+      use_download_button: true
+      home_page_in_toc: true
+      show_toc_level: 2
