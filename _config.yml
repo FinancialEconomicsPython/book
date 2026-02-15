@@ -5,7 +5,7 @@ execute:
   execute_notebooks: off
 
 repository:
-  url: https://github.com/FinancialEconomicsPython/book
+  url: https://github.com/FinancialEconomicsPython/resources
   branch: main
 
 html:
