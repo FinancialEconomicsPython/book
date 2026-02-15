@@ -33,12 +33,13 @@ jobs:
 
     - name: Build book
       run: |
-        # 1. 버그가 있는 myst-cli 버전을 피하기 위해 최신 버전으로 강제 업데이트합니다.
+        # 1. 빌드 도구 안정화
         pip install -U myst-cli jupyter-book
-
-        # 2. 'docs'라는 이름의 폴더가 존재함을 확실히 하고, 그 폴더 내부를 빌드 대상으로 지정합니다.
-        # 경로 뒤에 /. 를 붙이는 것이 핵심입니다.
-        jupyter-book build docs/.
+        
+        # 2. 직접 docs 폴더로 '이동(cd)'한 뒤 그 자리에서 빌드합니다.
+        # 이렇게 하면 경로를 찾느라 헤맬 일이 없습니다.
+        cd docs
+        jupyter-book build .
 
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
