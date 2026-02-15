@@ -1,22 +1,7 @@
-# Table of contents
-# Learn more at https://jupyterbook.org/customize/toc.html
-
 format: jb-book
 root: intro
 chapters:
   - file: setup
-  - file: license
-  
-  - file: chapters/README
-    title: 교재 코드 (Chapters)
-    sections:
-      - glob: chapters/FE*
-  
-  - file: readings/README
-    title: 추가 읽을거리 (Readings)
-  
-  - file: appendix_online/README
-    title: 온라인 부록 (Appendix)
-  
+    title: 설치 및 사용법
   - file: license
     title: 라이선스 및 인용
