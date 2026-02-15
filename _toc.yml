@@ -5,7 +5,7 @@ format: jb-book
 root: intro
 chapters:
   - file: setup
-    title: 설치 및 사용법
+  - file: license
   
   - file: chapters/README
     title: 교재 코드 (Chapters)
