@@ -6,6 +6,7 @@ execute:
 
 repository:
   url: https://github.com/FinancialEconomicsPython/resources
+  path_to_book: .    # 이 줄 추가!
   branch: main
 
 html:
