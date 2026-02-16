@@ -218,7 +218,6 @@ GitHub repository: https://github.com/FinancialEconomicsPython/resources
 
 ## ⚠️ Disclaimer (면책 조항)
 
-### 한글
 
 본 저장소에 포함된 모든 코드와 분석 결과는 **교육 및 연구 목적**으로만 제공됩니다.
 
@@ -227,7 +226,6 @@ GitHub repository: https://github.com/FinancialEconomicsPython/resources
 - **투자 조언 아님**: 본 저장소의 어떠한 내용도 투자 조언이나 금융 상담으로 해석되어서는 안 됩니다.
 - **사용자 책임**: 코드를 사용하기 전에 반드시 검증하시기 바라며, 모든 사용은 사용자 본인의 책임 하에 이루어집니다.
 
-### English
 
 All code and analysis results in this repository are provided **for educational and research purposes only**.
 
@@ -238,7 +236,7 @@ All code and analysis results in this repository are provided **for educational 
 
 ---
 
-### Note on Data Sources
+## Note on Data Sources
 
 Data used in this repository (e.g., FRED, ECOS, ECB Data Portal) are subject to their own licenses.
 This license applies only to the original code and figures created by the author.
