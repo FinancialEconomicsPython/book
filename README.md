@@ -115,11 +115,16 @@ GitHub에서 노트북을 **Google Colab**으로 열 경우,
 
 #### 노트북 상단 셀에서 아래 코드 실행
 ```python
-# FinancialEconomicsPython 저장소를 Colab 환경으로 복제
-!git clone https://github.com/FinancialEconomicsPython/book.git
+# FinancialEconomicsPython utils 설치 및 import
+!rm -rf resources
+!git clone https://github.com/FinancialEconomicsPython/resources.git
 
-# 작업 디렉토리를 저장소 루트로 이동
-%cd book
+import sys
+sys.path.insert(0, '/content/resources')
+
+from utils.nber_utils import *
+from utils.plot_utils import *
+from utils.preamble_core import *
 ```
 이 방법을 사용하면 utils/ 폴더가 자동으로 포함되고
 chapters/, readings/ 등 상대경로가 모두 정상 작동하며
