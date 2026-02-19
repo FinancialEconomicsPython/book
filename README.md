@@ -157,7 +157,7 @@ chapters/, readings/ 등 상대경로가 모두 정상 작동하며
 
 ### 🔹 방법 1: GitHub에서 Colab으로 열기
 1. 이 GitHub 저장소에서 `chapters/` 폴더로 이동합니다.
-2. 실행하고 싶은 장의 `.ipynb` 파일을 클릭합니다.
+2. 실행하고 싶은 장의 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)을 클릭합니다.
 3. 해당 파일의 첫 부분에 나와 있는 설명대로 본인이 작업할 폴더 경로 BASE, 그리고 한국은행 ECOS API 인증키를 key_api_ECOS에 지정해 줍니다.
 4. 노트북의 셀(cell)을 **위에서부터 차례대로 실행**합니다.
 - 단축키: `Shift + Enter`
