@@ -1,0 +1,65 @@
+name: Fix UTILS path in notebooks
+
+on:
+  workflow_dispatch:  # 수동 실행
+
+jobs:
+  fix-notebooks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Run fix script
+        run: |
+          python3 - <<'EOF'
+          import os, json
+
+          CHAPTERS_DIR = "./chapters"
+
+          OLD_LINES = [
+              '# 서브폴더 지정 (utils, figures 등)\n',
+              'UTILS = f"{BASE}/utils"\n',
+              'FIGS  = f"{BASE}/figures"'
+          ]
+
+          NEW_LINES = [
+              '# 서브폴더 지정\n',
+              'UTILS = "/content/resources/utils"   # git clone 경로\n',
+              'FIGS  = os.path.join(BASE, "figures")\n',
+              'os.makedirs(FIGS, exist_ok=True)'
+          ]
+
+          OLD_STR = "".join(OLD_LINES)
+          NEW_STR = "".join(NEW_LINES)
+
+          for fname in sorted(os.listdir(CHAPTERS_DIR)):
+              if not fname.endswith(".ipynb"):
+                  continue
+              fpath = os.path.join(CHAPTERS_DIR, fname)
+              with open(fpath, "r", encoding="utf-8") as f:
+                  nb = json.load(f)
+
+              changed = False
+              for cell in nb["cells"]:
+                  source = "".join(cell["source"])
+                  if OLD_STR in source:
+                      new_source = source.replace(OLD_STR, NEW_STR)
+                      cell["source"] = [line + "\n" for line in new_source.split("\n")]
+                      cell["source"][-1] = cell["source"][-1].rstrip("\n")
+                      changed = True
+
+              if changed:
+                  with open(fpath, "w", encoding="utf-8") as f:
+                      json.dump(nb, f, ensure_ascii=False, indent=1)
+                  print(f"✅ 수정됨: {fname}")
+              else:
+                  print(f"⏭️ 패턴 없음: {fname}")
+          EOF
+
+      - name: Commit and push
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add chapters/
+          git commit -m "fix: UTILS 경로를 git clone 경로로 일괄 수정" || echo "변경사항 없음"
+          git push
